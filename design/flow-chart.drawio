@@ -174,7 +174,7 @@
                     <mxGeometry x="620" y="732.5" width="110" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="toppings&lt;br&gt;=0" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-                    <mxGeometry x="745" y="745" width="90" height="50" as="geometry"/>
+                    <mxGeometry x="740" y="735" width="95" height="55" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="36" target="46" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -263,6 +263,16 @@
                 </mxCell>
                 <mxCell id="65" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="385" y="925" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="57">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="822.98" y="770" as="sourcePoint"/>
+                        <mxPoint x="560" y="840" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="830" y="770"/>
+                            <mxPoint x="830" y="845"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
